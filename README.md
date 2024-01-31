@@ -1,3 +1,5 @@
+This project utilized data from the Netflix database stored at https://www.db-fiddle.com/f/pfsdrKi9cgCDp4Wwb77AF/0
+
 # Netflix-Data
 
 --SELECT titles.title, titles.type, people.show_id, people.director
